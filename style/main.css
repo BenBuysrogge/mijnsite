@@ -1,0 +1,29 @@
+img{
+    max-width: 400px;
+    height: 100%;
+}
+header{
+    font-size: x-large;
+}
+footer{
+    text-align: end;
+    font-size: larger;
+    min-height: 200px;
+    background-color: lightgray;
+}
+h2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-weight: bold;
+}
+.message{
+    font-size: larger;
+}
+.ervaring{
+    font-size: larger;
+}
+.hobbies{
+    font-size: larger;
+}
+.contact-form{
+    font-size: larger;
+}
